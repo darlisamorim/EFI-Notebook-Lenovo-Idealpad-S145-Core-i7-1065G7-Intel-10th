@@ -13,7 +13,7 @@ Memory|2x4GB 2667MHz DDR4, total memory 8GB 2667MHz
 BIOS|Factory Default
 
 
-**Upgrade of notebook:**
+**Laptop Upgrade::**
 
 Piece|Model
 :----|:----
