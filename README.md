@@ -33,10 +33,7 @@ macOS install images|Directly from the Apple store using gibMacOS
 Opencore|Version 0.7.6 the 0.8.6
 
 
-
-```
 - After updating the BIOS to version (DKCN53WW) and making its settings, I also modified the BIOS internally to avoid Kernel Panics!
-```
 
 
 **IMPORTANT ALERTS:**
