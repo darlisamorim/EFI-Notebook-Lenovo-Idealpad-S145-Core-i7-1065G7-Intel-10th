@@ -1,4 +1,4 @@
-# EFI & Settings - Notebook Lenovo Idealpad S145 i7-1065G7 | Intel 10th 
+# EFI & Settings - Notebook Lenovo Idealpad S145 Core i7-1065G7 | Intel 10th 
 
 **Laptop Factory Defaults:**
 
