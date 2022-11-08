@@ -23,7 +23,7 @@ Wi-Fi end bluetooth Card|Fenvi Model BCM94360NG (I made an improvement I changed
 Update BIOS|Version (DKCN53WW). I updated the notebook's BIOS with the Lenovo program and reconfigured some items in it
 
 
-**UFI Settings:**
+**EFI Settings:**
 
 Options|Information
 :----|:----
