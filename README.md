@@ -18,7 +18,7 @@ BIOS|Factory Default
 Piece|Model
 :----|:----
 Additional Storage|SSD Sata 240GB for the operating system Windows
-Memory|1x4GB + 1x16GB in 2667MHz DDR4, Total Memory 20GB 2667MHz
+Memory|1x4GB + 1x16GB in 2667MHz DDR4, Total Memory 20GB
 Wi-Fi end bluetooth Card|Fenvi Model BCM94360NG (I made an improvement I changed the default Wi-Fi card that came in the notebook. That way the Wi-Fi works natively)
 Update BIOS|Version (DKCN53WW). I updated the notebook's BIOS with the Lenovo program and reconfigured some items in it
 
