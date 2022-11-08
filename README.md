@@ -39,7 +39,7 @@ OpenCore|Version 0.7.6 the 0.8.6
 
 **IMPORTANT ALERTS:**
 
-**Carefully read the above content, because if you carefully follow everything I've done, you'll be able to use macOS without problems on your notebook, but always take into account the Hardware and Software changes I've made.
+Carefully read the above content, because if you carefully follow everything I've done, you'll be able to use macOS without problems on your notebook, but always take into account the Hardware and Software changes I've made.
 
 However, even with these changes made by me, it is entirely possible to adapt these EFI to your Notebook as long as it has the same Hardware version mentioned above in (Laptop Factory Defaults), it is only necessary to update and configure for the BIOS version (DKCN53WW).
 
