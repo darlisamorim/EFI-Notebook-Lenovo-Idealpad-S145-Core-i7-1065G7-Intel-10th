@@ -6,7 +6,7 @@ Piece|Model
 :----|:----
 Plataforma|Notebook Lenovo Idealpad S145 | Intel 10th
 Processador|Core I7-1065G7 | Intel® 10th
-Vídeo|iGPU (integrado) Intel Iris Plus
+Vídeo|iGPU (Integrated) Intel Iris Plus
 Audio|Realtek ALC230
 Storage|SSD NVME 240GB for the operating system macOS
 Memory|2x4GB 2667MHz DDR4, total memory 8GB 2667MHz
@@ -18,7 +18,7 @@ BIOS|Factory Default
 Piece|Model
 :----|:----
 Additional Storage|SSD Sata 240GB for the operating system Windows
-Memory|1x4GB end 1x16GB in 2667MHz DDR4, Total Memory 20GB 2667MHz
+Memory|1x4GB + 1x16GB in 2667MHz DDR4, Total Memory 20GB 2667MHz
 Wi-Fi end bluetooth Card|Fenvi Model BCM94360NG (I made an improvement I changed the default Wi-Fi card that came in the notebook. That way the Wi-Fi works natively)
 Update BIOS|Version (DKCN53WW). I updated the notebook's BIOS with the Lenovo program and reconfigured some items in it
 
