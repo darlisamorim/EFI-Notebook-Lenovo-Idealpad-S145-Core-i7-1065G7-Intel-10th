@@ -5,7 +5,7 @@
 Piece|Model
 :----|:----
 Plataforma|Notebook Lenovo Idealpad S145 | Intel 10th
-Processador|Intel I7-1065G7
+Processador|Core I7-1065G7 | Intel® 10th
 Vídeo|iGPU (integrado) Intel Iris Plus
 Audio|Realtek ALC230
 Storage|SSD NVME 240GB for the operating system macOS
