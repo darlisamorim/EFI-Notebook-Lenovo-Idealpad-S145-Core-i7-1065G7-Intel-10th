@@ -29,7 +29,7 @@ Update BIOS|Version (DKCN53WW). I updated the notebook's BIOS with the Lenovo pr
 Options|Information
 :----|:----
 SMBIOS|MacBookPro16,2
-macOS|See the releases and their descriptions
+macOS|See the Releases and their descriptions
 macOS install images|Directly from the Apple store using gibMacOS
 OpenCore|Version 0.7.6 the 0.8.6
 
